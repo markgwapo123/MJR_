@@ -1,0 +1,42 @@
+# Flutter
+roadalert_client/build/
+roadalert_client/.dart_tool/
+roadalert_client/.packages
+roadalert_client/.pub-cache/
+roadalert_client/.pub/
+roadalert_client/pubspec.lock
+
+# Node.js
+roadalert_backend/node_modules/
+roadalert_backend/npm-debug.log*
+roadalert_backend/yarn-debug.log*
+roadalert_backend/yarn-error.log*
+
+# Environment variables
+roadalert_backend/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Testing
+coverage/
+test-results/
+
+# Build outputs
+dist/
+out/
